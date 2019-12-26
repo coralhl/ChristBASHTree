@@ -10,4 +10,4 @@
 
 ## Создатель
 
-[Here](https://github.com/sergiolepore/ChristBASHTree/graphs/contributors)
+[Тут](https://github.com/sergiolepore/ChristBASHTree/graphs/contributors)
